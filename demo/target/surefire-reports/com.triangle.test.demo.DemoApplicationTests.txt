@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.triangle.test.demo.DemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.923 sec - in com.triangle.test.demo.DemoApplicationTests

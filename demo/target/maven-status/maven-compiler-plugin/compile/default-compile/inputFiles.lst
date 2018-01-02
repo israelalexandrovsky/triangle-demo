@@ -1,0 +1,16 @@
+C:\demo\src\main\java\com\triangle\test\rest\TriangleController.java
+C:\demo\src\main\java\com\triangle\test\listener\Consumer.java
+C:\demo\src\main\java\com\triangle\test\dao\AbstractDao.java
+C:\demo\src\main\java\com\triangle\test\config\Config.java
+C:\demo\src\main\java\com\triangle\test\service\ITriangleStorageService.java
+C:\demo\src\main\java\com\triangle\test\algobatch\Processor.java
+C:\demo\src\main\java\com\triangle\test\utils\Utils.java
+C:\demo\src\main\java\com\triangle\test\dao\TriangleDao.java
+C:\demo\src\main\java\com\triangle\test\model\Triangle.java
+C:\demo\src\main\java\com\triangle\test\domain\enums\TriangleState.java
+C:\demo\src\main\java\com\triangle\test\algobatch\Writer.java
+C:\demo\src\main\java\com\triangle\test\domain\AbstractEntity.java
+C:\demo\src\main\java\com\triangle\test\domain\TriangleEntity.java
+C:\demo\src\main\java\com\triangle\test\service\TriangleStorageService.java
+C:\demo\src\main\java\com\triangle\test\algobatch\Reader.java
+C:\demo\src\main\java\com\triangle\test\DemoApplication.java

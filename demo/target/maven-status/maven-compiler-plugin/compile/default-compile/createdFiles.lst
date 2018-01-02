@@ -1,0 +1,16 @@
+com\triangle\test\algobatch\Processor.class
+com\triangle\test\domain\enums\TriangleState.class
+com\triangle\test\domain\TriangleEntity.class
+com\triangle\test\dao\TriangleDao.class
+com\triangle\test\algobatch\Writer.class
+com\triangle\test\model\Triangle.class
+com\triangle\test\service\ITriangleStorageService.class
+com\triangle\test\service\TriangleStorageService.class
+com\triangle\test\utils\Utils.class
+com\triangle\test\dao\AbstractDao.class
+com\triangle\test\algobatch\Reader.class
+com\triangle\test\rest\TriangleController.class
+com\triangle\test\listener\Consumer.class
+com\triangle\test\config\Config.class
+com\triangle\test\DemoApplication.class
+com\triangle\test\domain\AbstractEntity.class
